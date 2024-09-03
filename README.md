@@ -15,7 +15,7 @@ Getting started
 
 2.Build the Docker Image
 
-  docker build -t my-nginx:latest .
+   docker build -t my-nginx:latest .
 
 3. Run the Container
    
