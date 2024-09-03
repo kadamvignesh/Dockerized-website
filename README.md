@@ -13,7 +13,7 @@ Getting started
    
    cd Dockerized-website
 
-2.Build the Docker Image
+2. Build the Docker Image
 
    docker build -t my-nginx:latest .
 
@@ -23,4 +23,4 @@ Getting started
    
 4. View the Website
 
-   Open your web browser and navigate to http://localhost to see the deployed website.
+   Open your web browser and navigate to http://localhost:80 to see the deployed website.
