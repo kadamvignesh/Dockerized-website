@@ -25,4 +25,5 @@ Getting started
 
    Open your web browser and navigate to http://localhost:80 to see the deployed website.
 
-   ![image alt](https://github.com/kadamvignesh/Dockerized-website/blob/main/Screenshot%20(30).png?raw=true)
+   ![image alt](https://github.com/kadamvignesh/Dockerized-website/blob/main/Screenshot%20(31).png?raw=true)
+   ![image alt](https://github.com/kadamvignesh/Dockerized-website/blob/main/Screenshot%20(32).png?raw=true)
